@@ -1,4 +1,4 @@
-# [Project Name] — Professional Responsive Landing Page
+# [clinic-Project] — Professional Responsive Landing Page
 
 A high-performance, responsive landing page built with **Bootstrap 5**. This project demonstrates the ability to leverage industry-standard frameworks to create clean, modern, and accessible user interfaces with a focus on fast development cycles and cross-browser compatibility.
 
